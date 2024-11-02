@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to Remix! Sanity, Storybook and Chadcn
 
 - 📖 [Remix docs](https://remix.run/docs)
 
