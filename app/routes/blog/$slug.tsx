@@ -8,7 +8,7 @@ export const meta: MetaFunction = () => {
 };
 
 export default function Index() {
-  console.log('asd')
+
   return (
     <div className="flex h-screen items-center justify-center">
      <div className="white">asd3</div> 
